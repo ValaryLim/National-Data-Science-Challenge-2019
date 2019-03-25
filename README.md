@@ -12,7 +12,7 @@ Developing a text classifier to categorise products in Shopee's app to different
 **Language:** Python (pandas, numpy, matplotlib.pyplot, nltk, scikit-learn)
 
 ## Files
-- [Finalised Model](docs/LogReg_SagaSolver_All.sav): Finalised machine learning model
-- [Submission File](docs/submission.csv): File submitted for the competition - reflects item ID and predicted categories
-- [Text Classifier Notebook](docs/'TextClassifier_Final.ipynb'): Implementation of data exploration, pre-processing, NLP and development of machine learning model.
-- [Text Classifier Optimisation Notebook](docs/'TextClassifier_Optimisation.ipynb'): Notebook containing the optimisation attempts for the Logistic Regression and SVM models
+- [Finalised Model](LogReg_SagaSolver_All.sav): Finalised machine learning model
+- [Submission File](submission.csv): File submitted for the competition - reflects item ID and predicted categories
+- [Text Classifier Notebook](TextClassifier_Final.ipynb'): Implementation of data exploration, pre-processing, NLP and development of machine learning model.
+- [Text Classifier Optimisation Notebook](TextClassifier_Optimisation.ipynb): Notebook containing the optimisation attempts for the Logistic Regression and SVM models
